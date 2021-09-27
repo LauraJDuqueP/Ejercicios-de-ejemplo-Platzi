@@ -13,3 +13,4 @@ print("Tienes  $" + dolares +   "  dolares"  )
 print ("Tienes $" + libra_esterlina +   "  libras esterlinas")
 
 print ("esto es para el repositorio cambio 1")
+print ("este es para el segundo ejemplo del repositorio")
